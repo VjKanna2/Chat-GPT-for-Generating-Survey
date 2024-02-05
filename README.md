@@ -33,7 +33,7 @@ Follow the on-screen instructions to generate surveys using ChatGPT.
 
 Acknowledgments:
 
-Special thanks to the SurveySparrow team for their on this project.
+Special thanks to the @SurveySparrow team for their on this project.
 
 
 
