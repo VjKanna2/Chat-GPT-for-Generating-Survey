@@ -4,7 +4,7 @@
 This repository contains the ChatGPT Survey Generation tool developed for AppNest. 
 This tool allows users to generate surveys using OpenAI's ChatGPT API.
 
-**Note:** This runs only on AppNest Page. Not on your local server. Use Node.Js v18 or below.
+**Note:** This runs only on AppNest Page. Not on your local server. Use Node.Js v18 or below. Also, use your own OPENAI API Key.
 
 ## Usage:
 
